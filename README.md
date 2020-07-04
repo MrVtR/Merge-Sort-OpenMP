@@ -1,6 +1,6 @@
 # Algoritmo Merge Sort Sequencial e Paralelizado com OpenMP - Feito em C++
 ## Instruções de compilação do algoritmo:
-### Compilador usado durante o projeto: GCC 7.5.0 com auxílio do WSL Ubuntu<br/><br/> Para realizar a compilação dos programas baixe os dois códigos em .cpp disponíveis nesse repositório ou clone o repositório em seu Desktop. Feito isso,localize o projeto com seu compilador e digite os seguintes comandos:
+### Compilador usado durante o projeto: GCC 7.5.0 com auxílio do WSL Ubuntu<br/><br/> Para realizar a compilação dos programas baixe os dois códigos em .cpp disponíveis no Release deste repositório ou clone o repositório em seu Desktop. Feito isso,localize a pasta que contêm os códigos, com seu compilador, e digite os seguintes comandos:
 #### g++ Merge_Sort_Paralelizado.cpp -o MergeP -O3 -fopenmp<br/>g++ Merge_Sort_Sequencial.cpp -o MergeS -O3<br/>
 <p align="center">
   <img src="Imagens/Compilação.PNG">
