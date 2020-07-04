@@ -18,3 +18,13 @@
 </p>
 
 ### O tempo marcado como "Tempo do Merge" é o tempo referente ao quanto demorou para que fosse feito a chamada da função mergeSort até o programa finalizar toda a ordenação do vetor.<br/> O tempo marcado como "real" é o tempo que o programa gastou para ser executado do ínicio ao fim,contanto com a alimentação de valores randômicos do vetor. 
+
+## Conferir se a ordenação dos vetores foi feita com sucesso
+### Para conferir se a ordenação foi feita corretamente é necessário retirar o comentário referente ao print do vetor ordenado em ambos os códigos,compilar novamente e realizar o teste de execução. 
+#### Código Sequencial: Retirar os parâmetros de comentário entre as linhas 27 e 29 do código <br/><br/> Código Paralelizado: Retirar os parâmetros de comentário entre as linhas 35 e 37 do código. 
+### Abaixo pode ser conferido o trecho de código que deve ter seus parâmetros /* e */ retirados:
+<p align="center">
+  <img src="Imagens/Comentário_Print_Vetor_Ordenado.PNG">
+</p>
+
+
