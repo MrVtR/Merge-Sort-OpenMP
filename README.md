@@ -17,7 +17,7 @@
   <img src="Imagens/Exemplo_de_Resultado.PNG">
 </p>
 
-### O tempo marcado como "Tempo do Merge" é o tempo referente ao quanto demorou para que fosse feito a chamada da função mergeSort até o programa finalizar toda a ordenação do vetor.<br/><br/> O tempo marcado como "real" é o tempo que o programa gastou para ser executado do ínicio ao fim,contanto com a alimentação de valores randômicos do vetor. 
+### O tempo marcado como "Tempo do Merge" é o tempo referente ao quanto demorou para que fosse feito a chamada da função mergeSort até o programa finalizar toda a ordenação do vetor.<br/><br/> O tempo marcado como "real" é o tempo que o programa gastou para ser executado do ínicio ao fim,incluindo a alimentação de valores randômicos do vetor. 
 
 ## Conferir se a ordenação dos vetores foi feita com sucesso
 ### Para conferir se a ordenação foi feita corretamente é necessário retirar o comentário referente ao print do vetor ordenado em ambos os códigos,compilar novamente e realizar o teste de execução. 
